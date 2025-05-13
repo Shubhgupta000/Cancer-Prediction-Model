@@ -73,5 +73,5 @@ The objective of this project is to:
 1. Clone the repository:
 
 ```bash
-
+git clone https://github.com/yourusername/cancer-prediction-model.git
 
